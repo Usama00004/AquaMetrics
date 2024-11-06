@@ -24,27 +24,27 @@ The goal of AquaMetrics is to provide a data-driven approach to analyzing the pe
 ### 1. Plant Treating Maximum & Minimum Volume of Wastewater
 - **Description**: This KPI identifies the treatment plants handling the maximum and minimum volumes of wastewater.
 - **Visualization**: Bar Chart
-- ![KPI 1: Volume of Wastewater Treated by Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_1.png)
+![KPI 1: Volume of Wastewater Treated by Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_1.png)
 
 ### 2. Percentage Contribution of Wastewater from Different Sources
 - **Description**: This KPI shows the percentage contribution of wastewater from different sources, enabling a breakdown of input sources.
 - **Visualization**: Pie Chart
-- ![KPI 2: Contribution of Wastewater from Different Sources](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_2.png)
+![KPI 2: Contribution of Wastewater from Different Sources](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_2.png)
 
 ### 3. Highly Utilized Treatment Plant
 - **Description**: This KPI measures the utilization rate of each treatment plant, showing how close plants operate to their capacity.
 - **Visualization**: Horizontal Bar Chart
-- ![KPI 3: Utilization of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_3.png)
+![KPI 3: Utilization of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_3.png)
 
 ### 4. Highly Efficient Treatment Plant
 - **Description**: This KPI measures the efficiency of each treatment plant based on the volume of wastewater treated to quality standards.
 - **Visualization**: Horizontal Bar Chart
-- ![KPI 4: Efficiency of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_4.png)
+![KPI 4: Efficiency of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_4.png)
 
 ### 5. Day-Wise Activity of Treatment Plant
 - **Description**: This KPI shows day-wise activity trends, helping identify the busiest days for each treatment plant.
 - **Visualization**: Line Chart
-- ![KPI 5: Day-Wise Activity of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_5.png)
+![KPI 5: Day-Wise Activity of Treatment Plants](https://github.com/Usama00004/AquaMetrics/blob/main/Images/KPI_5.png)
 
 ## Data Cleaning and Transformation
 
