@@ -2,6 +2,7 @@
 
 AquaMetrics is a project that analyzes key performance indicators (KPIs) for wastewater management to help optimize the efficiency and utilization of treatment plants. The analysis is performed using Python in Jupyter Notebook, with various visualizations to better understand the data and derive actionable insights. 
 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [KPI Analysis](#kpi-analysis)
