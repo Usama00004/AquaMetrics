@@ -8,7 +8,7 @@ AquaMetrics is a project that analyzes key performance indicators (KPIs) for was
 - [KPI Analysis](#kpi-analysis) 
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation) 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage) 
 - [Project Structure](#project-structure) 
 - [License](#license)
  
